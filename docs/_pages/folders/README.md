@@ -26,3 +26,5 @@ For a general presentation, you can refer to the
 [X Desktop Group](https://en.wikipedia.org/wiki/Freedesktop.org)
 and especially the [XDG](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 base directory specification.
+
+Note for Linux users: Flatpak restricts access to folders. You can use [FlatSeal](https://flathub.org/apps/com.github.tchx84.Flatseal) if you have trouble accessing your files.
